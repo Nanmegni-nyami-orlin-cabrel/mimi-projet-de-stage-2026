@@ -1,0 +1,14 @@
+[
+    {
+        "titre": "Laver les habits",
+        "description": "Laver avec de l'eau et du savon",
+        "statut": "termin\u00e9e",
+        "date_creation": "13/04/2026 14:19:32"
+    },
+    {
+        "titre": "Nettoyer le sol",
+        "description": "Salon, cuisine et douche",
+        "statut": "en cours",
+        "date_creation": "13/04/2026 14:19:32"
+    }
+]
